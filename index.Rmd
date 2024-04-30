@@ -1,5 +1,5 @@
 --- 
-title:  sdc en censo
+title:  Anonimizacion en el censo
 author: "Subdepartamento de Investigación Estadística"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
