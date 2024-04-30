@@ -1,0 +1,4 @@
+#	Consideraciones Finales y Recomendaciones
+## Conclusiones generales sobre la desestacionalización de series de tiempo.
+## Recomendaciones para la elección del método de desestacionalización.
+## Resumen Ejecutivo de las principales recomendaciones.

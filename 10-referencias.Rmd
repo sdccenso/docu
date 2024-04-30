@@ -1,0 +1,4 @@
+`r if (knitr:::is_html_output()) '
+# Referencias Bibliográficas {-}
+## Listado de Fuentes Consultadas y Citadas en el texto 
+'`

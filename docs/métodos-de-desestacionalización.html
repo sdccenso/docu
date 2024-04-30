@@ -4,18 +4,18 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Ajuste Estacional de Series Temporales Económicas y Sociales</title>
+  <title>Capítulo 5 Métodos de Desestacionalización | Ajuste Estacional de Series Temporales Económicas y Sociales</title>
   <meta name="description" content="Este es un documento central para el trabajo de ajuste estacional en el Instituto Nacional de Estadísticas de Chile." />
   <meta name="generator" content="bookdown 0.35 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Ajuste Estacional de Series Temporales Económicas y Sociales" />
+  <meta property="og:title" content="Capítulo 5 Métodos de Desestacionalización | Ajuste Estacional de Series Temporales Económicas y Sociales" />
   <meta property="og:type" content="book" />
   <meta property="og:image" content="https://www.ine.gob.cl/Imagenes/Logo_INE2.png" />
   <meta property="og:description" content="Este es un documento central para el trabajo de ajuste estacional en el Instituto Nacional de Estadísticas de Chile." />
   <meta name="github-repo" content="sdcchile/tallersdc/" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Ajuste Estacional de Series Temporales Económicas y Sociales" />
+  <meta name="twitter:title" content="Capítulo 5 Métodos de Desestacionalización | Ajuste Estacional de Series Temporales Económicas y Sociales" />
   
   <meta name="twitter:description" content="Este es un documento central para el trabajo de ajuste estacional en el Instituto Nacional de Estadísticas de Chile." />
   <meta name="twitter:image" content="https://www.ine.gob.cl/Imagenes/Logo_INE2.png" />
@@ -30,8 +30,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   <link rel="apple-touch-icon-precomposed" sizes="120x120" href="Imagenes/Logo_INE2.png" />
   <link rel="shortcut icon" href="Imagenes/Logo_INE2.png" type="image/x-icon" />
-
-<link rel="next" href="introducción.html"/>
+<link rel="prev" href="conceptos-básicos-de-estacionalidad.html"/>
+<link rel="next" href="selección-del-método-de-desestacionalización.html"/>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -156,15 +156,25 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">Ajuste Estacional de Series Temporales Económicas y Sociales</h1>
-<p class="author"><em>Subdepartamento de Investigación Estadística</em></p>
-<p class="date"><em>2024-04-30</em></p>
+<div id="métodos-de-desestacionalización" class="section level1 hasAnchor" number="5">
+<h1><span class="header-section-number">Capítulo 5</span> Métodos de Desestacionalización<a href="métodos-de-desestacionalización.html#métodos-de-desestacionalización" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div id="promedio-móvil." class="section level2 hasAnchor" number="5.1">
+<h2><span class="header-section-number">5.1</span> Promedio móvil.<a href="métodos-de-desestacionalización.html#promedio-móvil." class="anchor-section" aria-label="Anchor link to header"></a></h2>
 </div>
-<div id="prefacio" class="section level1 hasAnchor" number="1">
-<h1><span class="header-section-number">Capítulo 1</span> Prefacio<a href="index.html#prefacio" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<div id="citar-este-documento" class="section level2 hasAnchor" number="1.1">
-<h2><span class="header-section-number">1.1</span> Citar este documento<a href="index.html#citar-este-documento" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="promedio-móvil-ponderado." class="section level2 hasAnchor" number="5.2">
+<h2><span class="header-section-number">5.2</span> Promedio móvil ponderado.<a href="métodos-de-desestacionalización.html#promedio-móvil-ponderado." class="anchor-section" aria-label="Anchor link to header"></a></h2>
+</div>
+<div id="métodos-de-descomposiución-clásicos-descomposición-aditiva-y-descompasición-multiplicativa." class="section level2 hasAnchor" number="5.3">
+<h2><span class="header-section-number">5.3</span> Métodos de descomposiución clásicos (descomposición aditiva y descompasición multiplicativa).<a href="métodos-de-desestacionalización.html#métodos-de-descomposiución-clásicos-descomposición-aditiva-y-descompasición-multiplicativa." class="anchor-section" aria-label="Anchor link to header"></a></h2>
+</div>
+<div id="métodos-de-descomposición-compuesta." class="section level2 hasAnchor" number="5.4">
+<h2><span class="header-section-number">5.4</span> Métodos de descomposición compuesta.<a href="métodos-de-desestacionalización.html#métodos-de-descomposición-compuesta." class="anchor-section" aria-label="Anchor link to header"></a></h2>
+</div>
+<div id="método-de-regresión." class="section level2 hasAnchor" number="5.5">
+<h2><span class="header-section-number">5.5</span> Método de regresión.<a href="métodos-de-desestacionalización.html#método-de-regresión." class="anchor-section" aria-label="Anchor link to header"></a></h2>
+</div>
+<div id="método-x-11-y-x12-arima." class="section level2 hasAnchor" number="5.6">
+<h2><span class="header-section-number">5.6</span> Método X-11 y X12-ARIMA.<a href="métodos-de-desestacionalización.html#método-x-11-y-x12-arima." class="anchor-section" aria-label="Anchor link to header"></a></h2>
 
 </div>
 </div>
@@ -173,8 +183,8 @@
           </div>
         </div>
       </div>
-
-<a href="introducción.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="conceptos-básicos-de-estacionalidad.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="selección-del-método-de-desestacionalización.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -205,7 +215,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/ajusteestacionaline/taller/edit/main/index.Rmd",
+"link": "https://github.com/ajusteestacionaline/taller/edit/main/04-Metodos.Rmd",
 "text": "Edit"
 },
 "history": {
@@ -213,7 +223,7 @@ gitbook.start({
 "text": null
 },
 "view": {
-"link": "https://github.com/ajusteestacionaline/taller/blob/main/index.Rmd",
+"link": "https://github.com/ajusteestacionaline/taller/blob/main/04-Metodos.Rmd",
 "text": null
 },
 "download": ["bookdown-demo.pdf", "bookdown-demo.epub"],

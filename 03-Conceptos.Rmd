@@ -1,0 +1,5 @@
+#	Conceptos Básicos de Estacionalidad
+
+##	Definición de estacionalidad.
+##	Tipos de estacionalidad.
+##	Causas y factores que pueden generar estacionalidad en una serie de tiempo.

@@ -1,21 +1,78 @@
-MIT License
+CC0 1.0 Universal
 
-Copyright (c) 2023 Joyce Robbins
+Declaración de Propósito
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Las leyes de la mayoría de las jurisdicciones en todo el mundo otorgan automáticamente
+derechos de autor exclusivos y Derechos Relacionados (definidos a continuación) al creador y
+posteriores propietarios (cada uno de ellos, un "propietario") de una obra original de
+autoría y/o una base de datos (cada una, una "Obra").
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Ciertos propietarios desean renunciar de forma permanente a esos derechos sobre una Obra con el
+propósito de contribuir a un común de obras creativas, culturales y científicas ("Común") en el
+cual el público pueda confiar y sin temor a posteriores reclamos de infracción construir, modificar,
+incorporar en otras obras, reutilizar y redistribuir de la manera más libre posible, en cualquier
+forma y para cualquier propósito, incluyendo, sin limitación, propósitos comerciales. Estos
+propietarios pueden contribuir al Común para promover el ideal de una cultura libre y la producción
+adicional de obras creativas, culturales y científicas, o para obtener reputación o una mayor
+distribución de su Obra, en parte a través del uso y esfuerzos de otros.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Por estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de
+consideración adicional o compensación, la persona que asocia CC0 a una Obra (el "Afirmante"), en la
+medida en que él o ella sea propietario de Derechos de Autor y Derechos Relacionados en la Obra,
+elige voluntariamente aplicar CC0 a la Obra y distribuir públicamente la Obra bajo sus términos, con
+conocimiento de sus Derechos de Autor y Derechos Relacionados en la Obra y del significado e
+intención legal de CC0 en relación con esos derechos.
+
+1. Derechos de Autor y Derechos Relacionados. Una Obra puesta a disposición bajo CC0 puede estar
+protegida por derechos de autor y derechos relacionados o derechos conexos ("Derechos de Autor y Derechos
+Relacionados"). Los Derechos de Autor y Derechos Relacionados incluyen, pero no se limitan a, los
+siguientes:
+
+  i. el derecho de reproducir, adaptar, distribuir, ejecutar, mostrar, comunicar
+  y traducir una Obra;
+
+  ii. derechos morales mantenidos por los autores originales y/o intérpretes;
+
+  iii. derechos de publicidad y privacidad relacionados con la imagen o semejanza de una
+  persona representada en una Obra;
+
+  iv. derechos de protección contra la competencia desleal en relación con una Obra,
+  sujeto a las limitaciones en el párrafo 4(a), a continuación;
+
+  v. derechos de protección de la extracción, difusión, uso y reutilización de datos en
+  una Obra;
+
+  vi. derechos de bases de datos (como los que surgen bajo la Directiva 96/9/CE del
+  Parlamento Europeo y del Consejo, de 11 de marzo de 1996, relativa a la protección
+  legal de las bases de datos y su transposición nacional, incluida cualquier versión
+  modificada o sucesora de dicha directiva); y
+
+  vii. otros derechos similares, equivalentes o correspondientes en todo el mundo
+  basados en la ley o tratado aplicable y su implementación nacional.
+
+2. Renuncia. En la mayor medida permitida por, pero sin contravenir, la ley aplicable, el Afirmante
+renuncia de manera manifiesta, completa, permanente, irrevocable e incondicional a todos los Derechos de
+Autor y Derechos Relacionados del Afirmante y a todas las reclamaciones y causas de acción asociadas, ya
+sean conocidas o desconocidas (incluyendo reclamaciones y causas de acción existentes, así como futuras)
+en la Obra (i) en todos los territorios del mundo, (ii) durante el período máximo proporcionado por la ley
+o tratado aplicable (incluyendo extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y
+para cualquier número de copias, y (iv) para cualquier propósito, incluyendo, sin limitación, fines
+comerciales, publicitarios o promocionales (la "Renuncia"). El Afirmante hace la Renuncia en beneficio de
+cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmante, con la
+intención plena de que dicha Renuncia no esté sujeta a revocación, rescisión, cancelación, terminación o
+cualquier otra acción legal o equitativa para interrumpir el disfrute tranquilo de la Obra por parte del
+público, tal como lo contempla la Declaración de Propósito expresa del Afirmante.
+
+3. Alternativa de Licencia Pública. En caso de que alguna parte de la Renuncia sea considerada legalmente
+inválida o ineficaz por cualquier motivo bajo la ley aplicable, entonces la Renuncia se conservará en la
+medida máxima permitida teniendo en cuenta la Declaración de Propósito expresa del Afirmante. Además, en la
+medida en que se juzgue que la Renuncia es de esa manera, el Afirmante otorga por la presente a cada persona
+afectada una licencia libre de regalías, no transferible, no sublicenciable, no exclusiva, irrevocable e
+incondicional para ejercer los Derechos de Autor y Derechos Relacionados del Afirmante en la Obra (i) en
+todos los territorios del mundo, (ii) durante el período máximo proporcionado por la ley o tratado aplicable
+(incluyendo extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número
+de copias, y (iv) para cualquier propósito, incluyendo, sin limitación, fines comerciales, publicitarios o
+promocionales (la "Licencia"). La Licencia se considerará efectiva a partir de la fecha en que el Afirmante
+aplicó CC0 a la Obra. En caso de que alguna parte de la Licencia sea considerada legalmente inválida o
+ineficaz bajo la ley aplicable, tal invalidez o ineficacia parcial no invalidará el resto de la Licencia, y en
+tal caso el Afirmante afirma por la presente que él o ella no (i) ejercerá ninguno de sus Derechos de Autor
