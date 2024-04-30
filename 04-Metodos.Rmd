@@ -1,8 +1,0 @@
-#	Métodos de Desestacionalización
-
-##	Promedio móvil.
-##	Promedio móvil ponderado.
-##	Métodos de descomposiución clásicos (descomposición aditiva y descompasición multiplicativa).
-##	Métodos de descomposición compuesta.
-##	Método de regresión.
-##	Método X-11 y X12-ARIMA.

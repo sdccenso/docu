@@ -1,4 +1,0 @@
-#	Implementación Práctica
-##	Heurística del Paso a paso para desestacionalizar una serie de tiempo, utilizando diferentes métodos.
-##	Herramientas y softwares disponibles para realizar la desestacionalización.
-##	Interpretación de los resultados obtenidos después de aplicar el método de desestacionalización.

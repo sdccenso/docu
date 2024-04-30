@@ -1,8 +1,0 @@
-#	Selección del Método de Desestacionalización
-
-##	Factores a considerar al elegir un método de desestacionalización.
-##	Ventajas y desventajas de cada método.
-##	Ejemplos de aplicación de diferentes métodos en situaciones específicas.
-##	Desestacionalización y auditorias.
-##	Control de calidad estadística de la desestacionalización.
-

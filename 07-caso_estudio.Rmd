@@ -1,4 +1,0 @@
-#	Casos de Estudio y Ejemplos
-## Presentación de casos reales donde se aplicaron técnicas de desestacionalización.
-## Análisis de cómo la desestacionalización ayuda a comprender los microdatos y para tomar decisiones informadas.
-## Análisis de Casos Particulares.

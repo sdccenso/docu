@@ -1,4 +1,1 @@
-#	Definición de series de tiempo.
-##	La importancia de analizar series de tiempo en diferentes ámbitos y disciplinas.
-##	Breve explicación de la estacionalidad en las series de tiempo y su impacto en el análisis de dichas series.
-##	Principios fundamentales de la desestacionalización.
+#	tema2

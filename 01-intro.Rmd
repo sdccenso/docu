@@ -1,4 +1,56 @@
-# Introducción
+# Proceso Control a la Divulgación Estadística (SDC) INE 2021
 
-El propósito de la desestacionalización es identificar y estimar los distintos componentes de una serie temporal para comprender mejor las tendencias subyacentes, el ciclo económico y los movimientos a corto plazo de la serie. Esta técnica proporciona una perspectiva complementaria de los cambios recientes en las series macroeconómicas, permitiendo la comparación entre trimestres sin la influencia de efectos estacionales o del calendario. En este capítulo, se presentan los principios fundamentales de la desestacionalización, seguidos de una descripción de los pasos principales en los procedimientos más comunes empleados por los organismos que producen datos. También se ofrece orientación práctica sobre cómo evaluar y validar la calidad de los datos desestacionalizados. Finalmente, se abordan algunos problemas específicos relacionados con la aplicación de la desestacionalización en el contexto de las cuentas nacionales, como la comparación entre el ajuste directo y el ajuste indirecto de los agregados de las cuentas nacionales trimestrales (CNT) y la coherencia temporal con las referencias anuales.
+## Introducción
 
+
+## Etapa 1: Definiciones previas al proceso de anonimización
+
+
+
+### Definiciones previas
+
+
+
+
+### Determinación de la necesidad de protección de la confidencialidad
+
+
+
+### Definición de las características de las bases de datos a preservar
+
+
+
+## Etapa 2: Preparación y exploración de datos
+
+
+## Etapa 3: Medición y evaluación de riesgos de divulgación
+
+
+
+
+### Definición de escenarios de divulgación y selección de identificadores indirectos (cuasi-identificadores o variables clave)
+
+
+
+### Medición y evaluación de riesgos
+
+
+
+## Etapa 4.1: Selección y aplicación de métodos SDC
+
+
+
+## Etapa 4.2: Evaluación de proceso SDC
+
+
+### Vuelva a medir el riesgo
+
+### Mida la utilidad
+
+
+### Evaluación de reglas de validación y consistencia
+
+
+
+
+## Etapa 5: Generar reportes y liberar datos 
