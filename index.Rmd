@@ -1,5 +1,5 @@
 --- 
-title:  Anonimización en Censo: Aplicación de la Guia de Control a la Divulgacion de Microdatos
+title:  sdc
 author: "Subdepartamento de Investigación Estadística"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site

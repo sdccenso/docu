@@ -1,52 +1,20 @@
 # Proceso Control a la Divulgación Estadística (SDC) INE 2021
-
 ## Introducción
 
-
 ## Etapa 1: Definiciones previas al proceso de anonimización
-
-
-
 ### Definiciones previas
 
 
-
-
 ### Determinación de la necesidad de protección de la confidencialidad
-
-
-
 ### Definición de las características de las bases de datos a preservar
-
-
-
 ## Etapa 2: Preparación y exploración de datos
-
-
 ## Etapa 3: Medición y evaluación de riesgos de divulgación
-
-
-
-
 ### Definición de escenarios de divulgación y selección de identificadores indirectos (cuasi-identificadores o variables clave)
-
-
-
 ### Medición y evaluación de riesgos
-
-
-
 ## Etapa 4.1: Selección y aplicación de métodos SDC
-
-
-
 ## Etapa 4.2: Evaluación de proceso SDC
-
-
 ### Vuelva a medir el riesgo
-
 ### Mida la utilidad
-
 
 ### Evaluación de reglas de validación y consistencia
 
